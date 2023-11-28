@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey There! 👋 I'm Rashika ✨<br>I’m currently working as a DevOps Trainee with a growing interest and skills in FullStack Development⚡<br><br>
+Hey There! 👋 I'm Rashika ✨<br>I’m currently working as a Associate Software Engineer Trainee with a growing interest and skills in FullStack Development⚡<br><br>
 
 
 ## 🌐 Socials:
