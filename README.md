@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">I’m currently working as an Associate Software Engineer at Nagarro. Having expertise in FullStack and DevOps⚡</h5>
+<p> align="left">I’m currently working as an Associate Software Engineer at Nagarro. Having expertise in FullStack and DevOps⚡</p>
 
 ###
 
-<h1 align="left">Connect with me :</h1>
+<h2 align="left">Connect with me :</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="left">Languages and Tools :</h1>
+<h2 align="left">Languages and Tools :</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h1 align="left">Profile Views :</h1>
+<h2 align="left">Profile Views :</h2>
 
 ###
 
