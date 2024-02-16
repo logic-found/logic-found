@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m currently working as an Associate Software Engineer at Nagarro. Having expertise in FullStack and DevOps⚡</h3>
+<h4 align="left">I’m currently working as an Associate Software Engineer at Nagarro. Having expertise in FullStack and DevOps⚡</h4>
 
 ###
 
