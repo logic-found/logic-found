@@ -55,15 +55,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
   <img width="12" />
