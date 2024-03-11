@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m currently working as an Associate Software Engineer. Having expertise in FullStack and DevOps⚡</p>
+<p align="left">I’m currently working as an Associate Software Engineer. Having expertise in FullStack development⚡</p>
 
 ###
 
