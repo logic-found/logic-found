@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I work as a Software Engineer. Having expertise in FullStack development⚡</p>
+<p align="left"> I work as a Software Engineer. Having expertise in MERN Stack and DevOps⚡</p>
 
 ###
 
